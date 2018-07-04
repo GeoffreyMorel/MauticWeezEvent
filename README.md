@@ -64,7 +64,7 @@ pour allez récupérer les infos de weezevent
 - mot de passe
 - cles API  
 
-### les infos récupéré
+### les infos récupérées
 - participant :
   - nom
   - prénom
